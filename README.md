@@ -57,7 +57,6 @@
 - 启动后端 [xmall](https://github.com/Exrick/xmall) 项目后，在 `config/index.js` 中修改你的后端接口地址配置
 - Gitment评论配置见 [Gitment](https://github.com/imsun/gitment) 使用到的页面为 `thanks.vue`
 - `index.html` 中复制粘贴替换你的 [hotjar](https://github.com/Exrick/xmall/blob/master/study/hotjar.md) 代码
-- 若不启动后端项目，勉强预览运行此前端项目可尝试注释掉 `src/main.js` 中第 `8、10、39-61` 行代码
 - 在项目根文件夹下先后执行命令 `npm install` 、 `npm run dev`
 - 商城前台端口默认9999 http://localhost:9999
 ## 部署
@@ -72,25 +71,17 @@
 - 请遵循原作者MIT开源协议
 
 ### 作者其他项目推荐
+- [XMall微信小程序APP前端 现已开源！](https://github.com/Exrick/xmall-weapp)
+    
+    [![WX20190924-234416@2x.png](https://s2.ax1x.com/2019/10/06/ucEsBD.md.png)](https://www.bilibili.com/video/av70226175)
+
 - [X-Boot前后端分离开发平台](https://github.com/Exrick/x-boot)
 
-    ![](https://i.loli.net/2018/07/21/5b52e274d2085.png)
+    ![](https://i.loli.net/2020/03/13/rQGAWv1h8VMeIdi.png)
 
-- [XPay个人免签收款支付系统v1.2](https://github.com/Exrick/xpay)
+- [XPay个人免签收款支付系统](https://github.com/Exrick/xpay) 无需挂机App 自动回调
 
-    - 现已支持移动端支付 手机扫码体验
-
-    ![](http://p77xsahe9.bkt.clouddn.com/18-7-21/16350122.jpg)
-
-- 微信小程序APP 
-    - [前台源码点我提前获取](http://xpay.exrick.cn/pay) [预览视频](https://v.qq.com/x/page/f0627kf4x1e.html)
-
-    ![](https://i.loli.net/2018/07/21/5b52e1de385e7.png)
-
-- 机器学习笔记
+- 个人机器学习笔记
     - [Machine-Learning](https://github.com/Exrick/Machine-Learning)
 
-### 捐赠
-![](http://p77xsahe9.bkt.clouddn.com/18-7-20/54731550.jpg)
-
-![](http://p77xsahe9.bkt.clouddn.com/18-6-28/32845239.jpg)
+### [捐赠](http://xmall.exrick.cn)
